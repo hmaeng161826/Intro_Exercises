@@ -1,0 +1,14 @@
+import math
+
+result = math.sqrt(37)
+print(result)
+
+from math import sqrt
+
+result1 = sqrt(37)
+print(result1)
+
+import math as m
+
+result2 = m.sqrt(37)
+print(result2)
